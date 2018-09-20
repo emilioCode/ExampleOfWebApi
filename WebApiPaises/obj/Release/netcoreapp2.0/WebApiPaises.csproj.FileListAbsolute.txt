@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\bin\Release\netcoreapp2.0\WebApiPaises.deps.json
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\bin\Release\netcoreapp2.0\WebApiPaises.runtimeconfig.json
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\bin\Release\netcoreapp2.0\WebApiPaises.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\bin\Release\netcoreapp2.0\WebApiPaises.dll
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\bin\Release\netcoreapp2.0\WebApiPaises.pdb
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\obj\Release\netcoreapp2.0\WebApiPaises.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\obj\Release\netcoreapp2.0\WebApiPaises.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\obj\Release\netcoreapp2.0\WebApiPaises.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\obj\Release\netcoreapp2.0\WebApiPaises.AssemblyInfo.cs
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\obj\Release\netcoreapp2.0\WebApiPaises.dll
+C:\Users\Owner\source\repos\WebApiPaises\WebApiPaises\obj\Release\netcoreapp2.0\WebApiPaises.pdb
